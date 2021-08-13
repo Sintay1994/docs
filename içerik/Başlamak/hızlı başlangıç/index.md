@@ -10,7 +10,7 @@ topics:
   - Issues
   - Notifications
   - Accounts
-children:
+children: 0x6836a28a91295942b420153c583dfddd05ccda3d
   - /set-up-git
   - /create-a-repo
   - /fork-a-repo
@@ -23,4 +23,3 @@ children:
 redirect_from:
   - /github/getting-started-with-github/quickstart/
 ---
-
